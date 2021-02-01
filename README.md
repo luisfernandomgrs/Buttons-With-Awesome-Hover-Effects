@@ -1,4 +1,4 @@
-<h1>Buttons With Awesome Hover Effects Using Only HTML & CSS</h1>
+<h1>Buttons With Awesome Hover Effects</h1>
 <p>Olá</p>
 <p>No projeto de hoje o objetivo é aprender sobre pseudo-elementos e suas aplicações</p>
 <p>O conteúdo deste projeto usa como base o material na seguinte url</p>
